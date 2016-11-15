@@ -73,23 +73,23 @@ Berikut ini adalah penjelasan mengenai fungsi-fungsi yang ada:
 ## CITY10
 Hasil terbaik untuk data city10.csv adalah dengan nilai cost = **48**. Jumlah iterasi untuk 10 kota ini dikurangi menjadi 100 iterasi saja.
 
-![alt text](https://lh5.googleusercontent.com/B8B5qRlahufWmP4cvA7hkin1ioUMAUvYbx0z55vDvq4JmR2v7ay1Bty7xx6eK16kN5C5kEwAQUI4Z58=w1366-h638 "Iteration")
+![alt text](https://raw.githubusercontent.com/nettys/ACS-for-TSP/master/city10-Iteration.png "Iteration")
 
 Berikut ini adalah grafik performa dari algoritma ACS untuk city10:
-![alt text](https://lh5.googleusercontent.com/ZSrmD-yN4GbZfcnw64IeLEE8Sf5FZfFB2RMyYfeaOTvivHNZt0oTxSINIlHakLQZmF1702SCr5ET8uU=w1366-h638 "Performance")
+![alt text](https://raw.githubusercontent.com/nettys/ACS-for-TSP/master/city10-Performance.png "Performance")
 
 
 ## EI51
 
 Setelah melakukan beberapa percobaan, didapatkan hasil terbaik nilai cost minimum untuk ei51 = **426**. Hasil ini didapat pada iterasi ke **709**. Berikut ini adalah *screenshot* hasilnya:
-![alt text](https://lh3.googleusercontent.com/-gOFuIGqB2okFhy1V6ROwI7H-vQsN7IDgGmRRfSTstvJZgHvQ7mOm-aWgovhCuc2e3C4FVR0e-k45iY=w1366-h638 "Iteration")
+![alt text](https://raw.githubusercontent.com/nettys/ACS-for-TSP/master/ei51-Iteration.png "Iteration")
 
 Berikut ini adalah grafik performa dari algoritma ACS untuk ei51:
-![alt text](https://lh6.googleusercontent.com/AWlEiTTUz3slF_ELl8GzUm1HmqB6N22LbSDowLNIr_AMitxNAf9cWDevtfIFcmeftRrAvU9jf-9ACQg=w1366-h638 "Performance")
+![alt text](https://raw.githubusercontent.com/nettys/ACS-for-TSP/master/ei51-Performance.png "Performance")
 
 ## BERLIN52
 Setelah melakukan beberapa percobaan, didapatkan hasil terbaik nilai cost minimum untuk berlin52 = **7542**. Hasil ini didapat pada iterasi ke **1078**. Berikut ini adalah *screenshot* hasilnya:
 
-![alt text](https://lh6.googleusercontent.com/JO-3tUNDVlX0ODxoj3g9H9Xo3YlaC9NXelpBSn1p8pFDzxBZG-4oKuirYieano1sZAXox-KlccDY8u4=w1366-h638 "Iteration")
+![alt text](https://raw.githubusercontent.com/nettys/ACS-for-TSP/master/berlin52-Iteration.png "Iteration")
 
-![alt text](https://lh3.googleusercontent.com/WTz1hkEVX-dUywur0x3Fyd03rdQEdKMvouJoO4tAvZ6P6_2g1zs75wCk0SOYNXBUUPHfYLMvCM_L1QQ=w1366-h638 "Performance")
+![alt text](https://raw.githubusercontent.com/nettys/ACS-for-TSP/master/berlin52-Performance.png "Performance")
